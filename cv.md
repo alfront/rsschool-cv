@@ -35,7 +35,6 @@ function maxSubArray(nums) {
 ```
 
 ## __Experience__
--
 
 ## __Education__ 
 - __Courses:__
